@@ -1,4 +1,21 @@
 .pink {
     background-color: #ffc0cb;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+#number2 {
+    color: #0000fa;
+    font-size: 36px;
+
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: #00cc00;
+    font-size: 24px;
+    font-weight: bold;
+
 }
